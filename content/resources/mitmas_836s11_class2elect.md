@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information related to analog conditioning
   electronics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-836-sensor-technologies-for-interactive-environments-spring-2011/4462b625113bfc2f0f253d91fa23ce3a_MITMAS_836S11_Class2Elect.pdf
+file: /media/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/4462b625113bfc2f0f253d91fa23ce3a_MITMAS_836S11_Class2Elect.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MITMAS_836S11_Class2Elect.pdf
 uid: 4462b625-113b-fc2f-0f25-3d91fa23ce3a
