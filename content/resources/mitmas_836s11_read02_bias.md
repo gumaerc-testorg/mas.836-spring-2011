@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a1352d5d-0fda-36e4-8988-c9e586e23e31
 resourcetype: Document
 title: MITMAS_836S11_read02_bias.pdf
 uid: e9e6434b-1fcd-e4c0-bf5b-93cdcc51fe5d

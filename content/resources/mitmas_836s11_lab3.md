@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d343332-766a-105e-e37d-e739a91fde3a
 resourcetype: Document
 title: MITMAS_836S11_lab3.pdf
 uid: f0a306d6-31bf-f55e-b475-ef72d34d0a29

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2d59fbac-43d3-78d5-00a1-5edf4c257a1e
 resourcetype: Document
 title: MITMAS_836S11_Class3Elect.pdf
 uid: 5eb3032b-0667-f4ab-24b1-d0ec8745e06e
