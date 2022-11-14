@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  textbooks, coursework, grading, and the schedule of lecture topics and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
