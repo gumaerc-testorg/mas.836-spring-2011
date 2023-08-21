@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides selected lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ PDF
 Introduction; basic sensor-related electronics and signal conditioning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0MB]({{< baseurl >}}/resources/mitmas_836s11_class1elect))
+({{% resource_link 8e2042c5-c648-fe8a-e557-efc5bb5ae98f "PDF - 3.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Introduction; basic sensor-related electronics and signal conditioning
 Electronics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.9MB]({{< baseurl >}}/resources/mitmas_836s11_class2elect))
+({{% resource_link 4462b625-113b-fc2f-0f25-3d91fa23ce3a "PDF - 5.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Electronics (cont.)
 Electronics (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.4MB]({{< baseurl >}}/resources/mitmas_836s11_class3elect))
+({{% resource_link 5eb3032b-0667-f4ab-24b1-d0ec8745e06e "PDF - 4.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ Electronics (cont.)
 Pressure and force
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.7MB]({{< baseurl >}}/resources/mitmas_836s11_cls4pres_sen))
+({{% resource_link acb2a18d-5ddc-76d5-b485-4af3900f89b6 "PDF - 3.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Pressure and force
 Pressure, strain and piezoelectrics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 10.2MB]({{< baseurl >}}/resources/mitmas_836s11_cls5pres_sen))
+({{% resource_link 1fc0ede1-7094-7159-fecf-3a3f212cb8e2 "PDF - 10.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
