@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides each of the problem sets and labs assigned for
+  the course, supporting references, and information on the final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +31,7 @@ SUPPORTING REFERENCES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_ps1))
+Problem Set 1 ({{% resource_link 9aa48d70-54d4-8382-fa07-018f5a44edb2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Simple circuit analysis: standard circuit nomenclature, Ohm's law, Kirchoff's current and voltage laws, and ideal op-amp model
@@ -41,7 +43,7 @@ Simple circuit analysis: standard circuit nomenclature, Ohm's law, Kirchoff's cu
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 1 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_lab1))
+Lab 1 ({{% resource_link 74bb92e3-863e-8350-1ea1-46ed3c56f13e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Learning to use test equipment
@@ -53,7 +55,7 @@ Learning to use test equipment
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_ps2))
+Problem Set 2 ({{% resource_link 6cb94113-3170-9a8c-8165-5281b98e282c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Time varying circuit analysis: capacitors; op-amps with positive feedback; complex frequency analysis, capacitor impedance, and non-ideal op-amp model
@@ -65,7 +67,7 @@ Time varying circuit analysis: capacitors; op-amps with positive feedback; compl
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 2 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_lab2))
+Lab 2 ({{% resource_link 97ec66ca-7512-3a78-5728-3695a2115303 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction to power supplies and op-amps
@@ -73,9 +75,9 @@ Introduction to power supplies and op-amps
 {{< tdopen >}}
 
 
-TLV2374 datasheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://focus.ti.com/lit/ds/symlink/tlv2374.pdf))
+TLV2374 datasheet ([PDF - 1.4MB](http://focus.ti.com/lit/ds/symlink/tlv2374.pdf))
 
-7805 datasheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sparkfun.com/datasheets/Components/LM7805.pdf))
+7805 datasheet ([PDF](https://www.sparkfun.com/datasheets/Components/LM7805.pdf))
 
 
 {{< tdclose >}}
@@ -83,7 +85,7 @@ TLV2374 datasheet (![This resource may not render correctly in a screen reader.]
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_ps3))
+Problem Set 3 ({{% resource_link a584bae8-d776-8a26-7452-335c4852f867 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pressure and force measurement: FSRs (force sensitive resistors), strain guages and piezo circuits
@@ -95,19 +97,19 @@ Pressure and force measurement: FSRs (force sensitive resistors), strain guages 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 3 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_lab3))
+Lab 3 ({{% resource_link f0a306d6-31bf-f55e-b475-ef72d34d0a29 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction to force sensitive resistors and piezo films
 {{< tdclose >}}
 {{< tdopen >}}
-Interlink electronics.![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["FSR™ Force Sensing Resistors Integration Guide." (PDF)](http://www.digikey.com/Web%20Export/Supplier%20Content/InterlinkElectronics_1027/PDF/Interlink_Electronics_Integration_Guide.pdf?redirected=1)
+Interlink electronics.["FSR™ Force Sensing Resistors Integration Guide." (PDF)](http://www.digikey.com/Web%20Export/Supplier%20Content/InterlinkElectronics_1027/PDF/Interlink_Electronics_Integration_Guide.pdf?redirected=1)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set/Lab 4 ([PDF]({{< baseurl >}}/resources/mitmas_836s11_ps_lab4))
+Problem Set/Lab 4 ({{% resource_link d26e6d1b-696b-c948-70bf-113f309b57c1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction to capacitive sensing
@@ -115,11 +117,11 @@ Introduction to capacitive sensing
 {{< tdopen >}}
 
 
-ADXL203 Spec sheet (replaces ADXL202) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.analog.com/static/imported-files/data_sheets/ADXL103_203.pdf))
+ADXL203 Spec sheet (replaces ADXL202) ([PDF](http://www.analog.com/static/imported-files/data_sheets/ADXL103_203.pdf))
 
-AD713 Spec sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.analog.com/static/imported-files/data_sheets/AD713.pdf))
+AD713 Spec sheet ([PDF](http://www.analog.com/static/imported-files/data_sheets/AD713.pdf))
 
-MAX494 Spec sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdfserv.maxim-ic.com/en/ds/MAX492-MAX495.pdf))
+MAX494 Spec sheet ([PDF](http://pdfserv.maxim-ic.com/en/ds/MAX492-MAX495.pdf))
 
 
 {{< tdclose >}}
