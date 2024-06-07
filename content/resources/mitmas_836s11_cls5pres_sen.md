@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information related to pressure sensors and
   piezoelectrics.
 file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/1fc0ede170947159fecf3a3f212cb8e2_MITMAS_836S11_Cls5Pres_Sen.pdf
+file_size: 10546688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
