@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to simple circuit analysis.
-file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/9aa48d7054d48382fa07018f5a44edb2_MITMAS_836S11_ps1.pdf
+file: /ol-ocw-studio-app/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/9aa48d7054d48382fa07018f5a44edb2_MITMAS_836S11_ps1.pdf
 file_size: 116162
 file_type: application/pdf
 learning_resource_types:

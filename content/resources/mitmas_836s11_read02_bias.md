@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to biasing an op-amp.
-file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/e9e6434b1fcde4c0bf5b93cdcc51fe5d_MITMAS_836S11_read02_bias.pdf
+file: /ol-ocw-studio-app/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/e9e6434b1fcde4c0bf5b93cdcc51fe5d_MITMAS_836S11_read02_bias.pdf
 file_size: 422697
 file_type: application/pdf
 learning_resource_types:
