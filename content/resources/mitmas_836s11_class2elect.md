@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to analog conditioning
   electronics.
-file: /ol-ocw-studio-app/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/4462b625113bfc2f0f253d91fa23ce3a_MITMAS_836S11_Class2Elect.pdf
+file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/4462b625113bfc2f0f253d91fa23ce3a_MITMAS_836S11_Class2Elect.pdf
 file_size: 6210456
 file_type: application/pdf
 learning_resource_types:
