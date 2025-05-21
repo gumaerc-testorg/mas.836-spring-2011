@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to analog electronics.
-file: /ol-ocw-studio-app/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/5eb3032b0667f4ab24b1d0ec8745e06e_MITMAS_836S11_Class3Elect.pdf
+file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/5eb3032b0667f4ab24b1d0ec8745e06e_MITMAS_836S11_Class3Elect.pdf
 file_size: 4573949
 file_type: application/pdf
 learning_resource_types:

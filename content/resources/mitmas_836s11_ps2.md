@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to time varying circuit
   analysis.
-file: /ol-ocw-studio-app/courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/6cb9411331709a8c81655281b98e282c_MITMAS_836S11_ps2.pdf
+file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/6cb9411331709a8c81655281b98e282c_MITMAS_836S11_ps2.pdf
 file_size: 222343
 file_type: application/pdf
 learning_resource_types:
